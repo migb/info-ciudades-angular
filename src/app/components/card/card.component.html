@@ -1,0 +1,7 @@
+<mat-card class="city-card">
+  <mat-card-title>{{ city.name }}</mat-card-title>
+  <mat-card-content>
+    <p>Hora Local: <strong>{{ city.time | timeOnly}}</strong></p>
+    <p>Temperatura: <strong>{{ city.temperature | degrees }}</strong> aprox.</p>
+  </mat-card-content>
+</mat-card>
