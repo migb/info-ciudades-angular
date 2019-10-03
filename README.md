@@ -12,7 +12,7 @@ git clone https://github.com/migb/info-ciudades-angular.git
 ```
 - Descargar dependencias
 ```
-cd info-ciudades-anguar && npm install
+cd info-ciudades-angular && npm install
 ```
 - Ejecutar
 ```
